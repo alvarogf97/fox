@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/alvarogf97/fox.svg?branch=master)](https://app.travis-ci.com/alvarogf97/fox)
+[![Coverage Status](https://coveralls.io/repos/github/alvarogf97/fox/badge.svg?branch=master)](https://coveralls.io/github/alvarogf97/fox?branch=master)
 <p  align="center">
 
 <img  width="300"  height="300"  src="https://i.imgur.com/XAGh4os.png">
