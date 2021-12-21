@@ -1,5 +1,10 @@
 package msg
 
+const (
+	// Max buffer size to deserialize response
+	MAX_MESSAGE_SIZE = 5242880 // 5Mb
+)
+
 // Stun to Peer, Peer to Stun and
 // Peer to Peer message response interface
 type MsgResponse struct {

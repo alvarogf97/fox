@@ -87,7 +87,7 @@ func (client *DefaultStunClient) Collect() error {
 	}
 
 	go func() {
-		buff := make([]byte, 2048)
+		buff := make([]byte, msg.MAX_MESSAGE_SIZE)
 		for {
 			var response msg.MsgResponse
 
